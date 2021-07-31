@@ -1,0 +1,11 @@
+Fora da pasta comandos:
+
+pixel.ttf e pixel2.ttf são as fontes utilizadas no modulo Canvas, um modulo que cria uma imagem usando
+codigos. Uso isso para montar a imagem de perfil, os emblemas e qualquer coisa q precise ser montada.
+
+mee6-levels-api.js - é a api do bot MEE6, com ela eu consigo exibir o level no /perfil
+
+Dentro da pasta comandos:
+
+biscoitodasorte.txt - são todas as frases do biscoito, para adicionar mais frases ou diminuir é necessario mudar
+algumas coisas no vidente.js

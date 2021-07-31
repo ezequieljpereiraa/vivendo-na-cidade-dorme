@@ -1,0 +1,1072 @@
+{
+  "Servidores" : {
+    "Biblioteca" : {
+      "Marcador" : {
+        "695652027891581019" : {
+          "Autor" : "/livroatual",
+          "Bibliotecario" : "zezinho",
+          "Data" : "31/07/2021",
+          "Nome" : "Carry on: Ascensão e queda de Simon Snow",
+          "Pagina" : "480",
+          "Sinopse" : "Sem sinopse."
+        },
+        "721687478792093767" : {
+          "Data" : 0,
+          "Pagina" : 0
+        }
+      }
+    },
+    "Configuracoes" : {
+      "canalRegistroid" : "855904569502466058",
+      "cargos" : {
+        "maioridadeid" : "855881708318228540",
+        "menoridadeid" : "855881923108667432",
+        "pronomeElaid" : "855880979252117554",
+        "pronomeEleid" : "855879960131797032",
+        "pronomeEluid" : "855881039619817504"
+      },
+      "embedIdadeid" : "856003160538349608",
+      "embedPronomeid" : "856003148812517386",
+      "estaChovendo" : "sim",
+      "estadoPraca" : "dia",
+      "idCanalPraca" : "856960648763932672",
+      "idMensagemPride" : "856959817520381993",
+      "idPraca" : "860172685911523388",
+      "mardofarol" : {
+        "imagemFarol" : "https://i.imgur.com/yNuQ34c.png",
+        "imagemMar" : "https://i.imgur.com/7jnyAIE.gif"
+      }
+    },
+    "Levels" : {
+      "721687478792093767" : {
+        "532309860461576225" : {
+          "level" : 3,
+          "xp" : 254
+        }
+      }
+    },
+    "Perfil" : {
+      "247828816766959616" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "262260753489199104" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1624401470867
+        },
+        "xp" : 23
+      },
+      "267420439897178112" : {
+        "Casa" : 1,
+        "Fundo" : {
+          "bg" : "https://maplekeydaycamp.com/blog/wp-content/uploads/2017/10/halloween-twitter-header.jpg"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "xp" : 0
+      },
+      "290544659518980096" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://pbs.twimg.com/media/E0auZUbXoAIEHBg?format=jpg&name=360x360"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 0,
+            "vara02" : 0,
+            "vara03" : 0
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627560793370
+        },
+        "vidente" : {
+          "analiseAmor" : "Comece a levar mais a sério as pessoas que estão te dando carinho e retribua.",
+          "analiseEvitar" : "parar de falar mal de você mesmo no espelho. Muitas pessoas já vão tentar te deixar pra baixo. Não seja mais um linchador de si mesmo.",
+          "analiseFrase" : "ser mais transparente sobre seus sentimentos. Ninguém é obrigado a adivinhar o que você tá sentido.",
+          "dataVidente" : 1627560803898
+        },
+        "xp" : 1634
+      },
+      "295764824539791362" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "303230517170667521" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "xp" : 0
+      },
+      "337361504913326091" : {
+        "Casa" : 1,
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "xcarolinas",
+        "RelacionamentoID" : "685264789169242194",
+        "level" : 1,
+        "xp" : 0
+      },
+      "346109985664532482" : {
+        "Casa" : 3,
+        "Emblemas" : {
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://media.discordapp.net/attachments/695652028722053172/810341329673650196/a50df03f-d688-4c76-94ff-1054bbc0f0d4.png?width=722&height=406"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Pierre",
+        "RelacionamentoID" : "485134891109842944",
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 0,
+            "vara02" : 0,
+            "vara03" : 0
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1623614766781
+        },
+        "xp" : 122
+      },
+      "371237711417311244" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "378251475752714253" : {
+        "Casa" : 1,
+        "Fundo" : {
+          "bg" : "https://media4.giphy.com/media/g04lCCTUHSw03W7pqD/source.gif"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "xp" : 0
+      },
+      "388414633976922118" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.redd.it/rab1elstg0a51.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png"
+          },
+          "vara" : 1
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 1,
+            "vara02" : 0,
+            "vara03" : 0
+          }
+        },
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627501576115
+        },
+        "vidente" : {
+          "analiseAmor" : "Mostre toda sua confiança, porque se você não gostar de si mesmo ninguém irá gostar. Nunca é tarde para estar com alguém especial.",
+          "analiseEvitar" : "comer muitas besteiras. Coma mais frutas, se ajude mais.",
+          "analiseFrase" : "calma",
+          "dataVidente" : 1627501590600
+        },
+        "xp" : 1542
+      },
+      "414581705844719626" : {
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/d2sZmwZ.jpg"
+        }
+      },
+      "434816344614109184" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1624401627506
+        },
+        "xp" : 37
+      },
+      "471539791041789964" : {
+        "Casa" : 2,
+        "Fundo" : {
+          "bg" : "https://i.uai.com.br/ICmlRu5bHbGUWe0FY7LNgjQzWTU=/imgsapp2.uai.com.br/app/noticia_133890394703/2016/11/24/197864/20161124144625568496i.jpg"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Lady",
+        "RelacionamentoID" : "510588823839703040",
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "xp" : 0
+      },
+      "472992361169813504" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "xp" : 0
+      },
+      "485134891109842944" : {
+        "Casa" : 1,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://cdn.discordapp.com/attachments/827345021699227668/850123409743544360/b5fa4640947c34712718c54ecda6f363.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            " imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png"
+          },
+          "iscas" : 15,
+          "vara" : 0
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "aqua",
+        "RelacionamentoID" : "346109985664532482",
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 0,
+            "vara02" : 0,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, cd quebrado, argila, concha, cd quebrado, planta estragada, argila"
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1625954221792
+        },
+        "vidente" : {
+          "analiseAmor" : "Não tenha medo de viver os próximos relacionamentos que irão aparecer.",
+          "analiseEvitar" : "ficar muito tempo sem responder as pessoas que te apoiam todos os dias.",
+          "analiseFrase" : "uma boa meditação guiada",
+          "dataVidente" : 1625614443595
+        },
+        "xp" : 699
+      },
+      "487396572926050304" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "490691667326795807" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "xp" : 0
+      },
+      "490961851996307456" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "502592316092186644" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/tN8ZxYz.jpeg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png"
+          },
+          "iscas" : 0,
+          "vara" : 1
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 1,
+            "vara02" : 0,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, vagem, óculos quebrados, óculos quebrados, argila"
+          }
+        },
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627585158023
+        },
+        "vidente" : {
+          "analiseAmor" : "Pense com cuidado sobre as atitudes de pessoas que irão se aproximar de você e esteja com os olhos abertos.",
+          "analiseEvitar" : "ser uma pessoa tão trouxa.",
+          "analiseFrase" : "calma",
+          "dataVidente" : 1627511514947
+        },
+        "xp" : 790
+      },
+      "510588823839703040" : {
+        "Casa" : 1,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://cdn.discordapp.com/attachments/725851461602508962/762685714541707264/images_34.jpeg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "iscas" : 20,
+          "vara" : 0
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Ticinha",
+        "RelacionamentoID" : "471539791041789964",
+        "emblemaPrideVerifica" : "não",
+        "itens" : {
+          "inventario" : {
+            "nomes" : "Pirulito"
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1626723660305
+        },
+        "vidente" : {
+          "analiseAmor" : "Pense com cuidado sobre as atitudes de pessoas que irão se aproximar de você e esteja com os olhos abertos.",
+          "analiseEvitar" : "ficar de fofoquinha por ai. Se liga e vai arrumar o que fazer.",
+          "analiseFrase" : "mais exercicios físicos",
+          "dataVidente" : 1627336185510
+        },
+        "xp" : 619
+      },
+      "524243002701643782" : {
+        "Casa" : 1,
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Vicki",
+        "RelacionamentoID" : "678621872950083603",
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "vidente" : {
+          "analiseAmor" : "Não tenha medo de viver os próximos relacionamentos que irão aparecer.",
+          "analiseEvitar" : "entrar em discussões, brigas ou qualquer coisa que possa te deixar para baixo.",
+          "analiseFrase" : "se impor mais sobre os assuntos que te incomodam",
+          "dataVidente" : 1625172658260
+        },
+        "xp" : 50
+      },
+      "532309860461576225" : {
+        "Casa" : 1,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://64.media.tumblr.com/112d1cf27a9fba42c9018a245b41d2f1/787544cbcee1a121-cc/s540x810/a79899e4206ed4ce15169c4dcc638fcbb84e274c.gifv"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png",
+            "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png",
+            "imagemvara03" : "https://stardewvalleywiki.com/mediawiki/images/5/5e/Fiberglass_Rod.png"
+          },
+          "iscas" : 0,
+          "vara" : 1
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 7,
+            "vara02" : 4,
+            "vara03" : 5
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, óculos quebrados, pedra, vagem, cenoura subterrânea, argila, cenoura subterrânea, planta estragada, cd quebrado, argila, pão estranho, planta estragada, pedra, caldo pálido, pão estranho, argila, palha para mastigar, batata, colher enferrujada, pudim de arroz, pote de feijão, jojo-cola, colher enferrujada, pingente de sereia, jojo-cola, couve-flor, jojo-cola, pingente de sereia, batata, batata, pão estranho, caldo pálido, óculos quebrados, cenoura subterrânea, concha, pão estranho, pedra"
+          },
+          "ultimoitemcomprado" : "vara simpleeees"
+        },
+        "level" : 1,
+        "quantEmblemas" : 0,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627500349865
+        },
+        "vidente" : {
+          "analiseAmor" : "O único amor que você deve procurar hoje é o amor próprio.",
+          "analiseEvitar" : "ficar muito tempo sem responder as pessoas que te apoiam todos os dias.",
+          "analiseFrase" : "mais exercicios físicos",
+          "dataVidente" : 1627514912549
+        },
+        "xp" : 1493
+      },
+      "596570643646906399" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "xp" : 0
+      },
+      "607664742596739098" : {
+        "Casa" : 2,
+        "Fundo" : {
+          "bg" : "https://preview.redd.it/et4x8ifhsnn41.jpg?auto=webp&s=1d4110229b688979bb755d79dd951654c0a2c8b9"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "biellwho",
+        "RelacionamentoID" : "642021565965402113",
+        "level" : 1,
+        "xp" : 0
+      },
+      "642021565965402113" : {
+        "Casa" : 3,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://media.discordapp.net/attachments/739261187065249873/865710929898111026/20210716_180825.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png"
+          },
+          "iscas" : 0,
+          "vara" : 2
+        },
+        "Prefeito" : "Sim",
+        "Relacionamento" : "Eyyu_01",
+        "RelacionamentoID" : "839185808543842323",
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 0,
+            "vara02" : 1,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, cd quebrado, cd quebrado, caldo pálido, cenoura subterrânea, vagem, pão estranho, cenoura subterrânea, vagem, cd quebrado, planta estragada, óculos quebrados, pão estranho, pedra, cenoura subterrânea, argila, pedra, cd quebrado, cd quebrado, vagem, cd quebrado, pedra, pão estranho, vagem, cenoura subterrânea, argila, planta estragada, planta estragada, vagem, vagem, pedra, cd quebrado, caldo pálido, concha, planta estragada, concha, vagem, vagem, planta estragada, planta estragada, pão estranho, pedra, caldo pálido, pão estranho, vagem, concha, cenoura subterrânea, argila, pedra, argila, caldo pálido, planta estragada, concha, vagem, pão estranho, cenoura subterrânea, pão estranho, óculos quebrados, pão estranho, planta estragada, cenoura subterrânea, planta estragada, planta estragada, pão estranho, pedra, caldo pálido, planta estragada, vagem, planta estragada, óculos quebrados, caldo pálido, óculos quebrados, cd quebrado, óculos quebrados, vagem, pedra, pão estranho, planta estragada, argila, vagem, caldo pálido, óculos quebrados, cd quebrado, pão estranho, vagem, óculos quebrados, óculos quebrados, planta estragada, argila, cd quebrado, argila, cd quebrado, planta estragada, óculos quebrados, concha, pão estranho, caldo pálido, pedra, vagem, cd quebrado, argila, vagem, planta estragada, planta estragada, pedra, vagem, óculos quebrados, pedra, cenoura subterrânea, pedra, pão estranho, pedra, argila, óculos quebrados, óculos quebrados, cenoura subterrânea, pão estranho, cenoura subterrânea, pão estranho, pão estranho, óculos quebrados, cd quebrado, planta estragada, concha, concha, pão estranho, óculos quebrados, pudim de arroz, palha para mastigar, colher enferrujada, couve-flor, batata, palha para mastigar, colher enferrujada, colher enferrujada, pingente de sereia, pingente de sereia, pudim de arroz, palha para mastigar, batata, palha para mastigar, pingente de sereia, pudim de arroz, couve-flor, palha para mastigar, palha para mastigar, couve-flor, pudim de arroz, palha para mastigar, batata, palha para mastigar, couve-flor, pote de feijão, palha para mastigar, batata, pote de feijão, pingente de sereia, pudim de arroz, jojo-cola, pote de feijão, couve-flor, jojo-cola, batata, couve-flor, palha para mastigar, pudim de arroz, couve-flor, pingente de sereia, batata, couve-flor, colher enferrujada, pingente de sereia, batata, pingente de sereia, pudim de arroz, batata, pingente de sereia, batata, batata, colher enferrujada, couve-flor, pudim de arroz, batata, pingente de sereia, palha para mastigar, pudim de arroz, jojo-cola, jojo-cola, couve-flor, pingente de sereia, pingente de sereia, pudim de arroz, pote de feijão, pote de feijão, couve-flor, batata, colher enferrujada, batata, batata, palha para mastigar, couve-flor, pudim de arroz, couve-flor, pingente de sereia, pingente de sereia, jojo-cola, pote de feijão, batata, jojo-cola, pudim de arroz, jojo-cola, pingente de sereia, palha para mastigar, couve-flor, pingente de sereia, pudim de arroz, palha para mastigar, pudim de arroz, colher enferrujada, pudim de arroz, pingente de sereia, pote de feijão, batata, pudim de arroz, pudim de arroz, jojo-cola, couve-flor, batata, couve-flor, jojo-cola, palha para mastigar, couve-flor, jojo-cola, pudim de arroz, palha para mastigar, pote de feijão, colher enferrujada, colher enferrujada, pingente de sereia, couve-flor, colher enferrujada, pudim de arroz, batata, jojo-cola, palha para mastigar, colher enferrujada, batata, pingente de sereia, pingente de sereia, batata, pudim de arroz, colher enferrujada, couve-flor, jojo-cola, colher enferrujada, pudim de arroz, couve-flor, couve-flor, couve-flor, couve-flor, pudim de arroz, palha para mastigar, pote de feijão, pingente de sereia, jojo-cola, pudim de arroz, palha para mastigar, pingente de sereia, palha para mastigar, pote de feijão, pote de feijão, couve-flor, pingente de sereia, pote de feijão, pudim de arroz, jojo-cola, palha para mastigar, batata, batata, batata, pudim de arroz, pudim de arroz, couve-flor, couve-flor, pingente de sereia, colher enferrujada, pote de feijão, pote de feijão, jojo-cola, colher enferrujada, colher enferrujada, jojo-cola, palha para mastigar, colher enferrujada, pingente de sereia, colher enferrujada, couve-flor, couve-flor, batata, pingente de sereia, pingente de sereia, pote de feijão, pudim de arroz, palha para mastigar, pote de feijão, pote de feijão, palha para mastigar, palha para mastigar, pudim de arroz, jojo-cola, batata, pudim de arroz, couve-flor, pote de feijão, palha para mastigar, pote de feijão, jojo-cola, pudim de arroz, couve-flor, palha para mastigar, batata, pote de feijão, batata, batata, pudim de arroz, batata, pote de feijão, couve-flor, colher enferrujada, jojo-cola, pote de feijão, batata, pote de feijão, pote de feijão, palha para mastigar, pingente de sereia, colher enferrujada, jojo-cola, pingente de sereia, pudim de arroz, pote de feijão, jojo-cola, couve-flor, pote de feijão, jojo-cola, pingente de sereia, jojo-cola, pingente de sereia, couve-flor, colher enferrujada, colher enferrujada, couve-flor, pote de feijão, palha para mastigar, jojo-cola, jojo-cola, pudim de arroz, pingente de sereia, palha para mastigar, colher enferrujada, pudim de arroz, pingente de sereia, palha para mastigar, batata, pote de feijão, batata, batata, pudim de arroz, pudim de arroz, jojo-cola, pudim de arroz, palha para mastigar, batata, palha para mastigar, palha para mastigar, couve-flor, colher enferrujada, batata, pudim de arroz, palha para mastigar, palha para mastigar, pudim de arroz, couve-flor, pingente de sereia, pote de feijão, pingente de sereia, batata, pingente de sereia, jojo-cola, couve-flor, jojo-cola, pingente de sereia, jojo-cola, colher enferrujada, palha para mastigar, couve-flor, palha para mastigar, pingente de sereia, pingente de sereia, colher enferrujada, pingente de sereia, couve-flor, batata, colher enferrujada, palha para mastigar, pote de feijão, pudim de arroz, jojo-cola, jojo-cola, palha para mastigar, palha para mastigar, batata, pudim de arroz, pingente de sereia, colher enferrujada, couve-flor"
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627484333777
+        },
+        "vidente" : {
+          "analiseAmor" : "O amor irá bater na sua porta, mas antes é necessário você se amar.",
+          "analiseEvitar" : "ficar muito tempo sem responder as pessoas que te apoiam todos os dias.",
+          "analiseFrase" : "se envolver menos em brigas",
+          "dataVidente" : 1625243112053
+        },
+        "xp" : 2718
+      },
+      "678621872950083603" : {
+        "Casa" : 1,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://images-ext-1.discordapp.net/external/TvzXjeRxGODKHzyeoG4QNxCF9mCSZ7Z1U-kuD2FnYcA/https/i.pinimg.com/564x/7c/ba/56/7cba56bbfe68188d7b92ae407ff37ac1.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png"
+          },
+          "iscas" : 14,
+          "vara" : 2
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Jessé",
+        "RelacionamentoID" : "524243002701643782",
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 0,
+            "vara02" : 1,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, óculos quebrados, caldo pálido, planta estragada, planta estragada, pão estranho, planta estragada, óculos quebrados, pão estranho, vagem, cd quebrado, couve-flor, jojo-cola"
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627570841688
+        },
+        "vidente" : {
+          "analiseAmor" : "O amor irá bater na sua porta, mas antes é necessário você se amar.",
+          "analiseEvitar" : "pensar muito no ontem e esquecer do agora. Seu sucesso não vai aparecer com lamentações.",
+          "analiseFrase" : "se envolver menos em brigas",
+          "dataVidente" : 1627570849538
+        },
+        "xp" : 593
+      },
+      "685264789169242194" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Leena",
+        "RelacionamentoID" : "337361504913326091",
+        "level" : 1,
+        "xp" : 0
+      },
+      "685605064735195208" : {
+        "Casa" : 1,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/d2sZmwZ.jpg"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "sim",
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1626103453510
+        },
+        "xp" : 137
+      },
+      "690344523569823905" : {
+        "Casa" : 0,
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "xp" : 0
+      },
+      "695757317731385494" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1624981523429
+        },
+        "xp" : 107
+      },
+      "702998762620190760" : {
+        "Casa" : 2,
+        "Fundo" : {
+          "bg" : "https://cdn.discordapp.com/attachments/739261187065249873/763901819788722186/20201008_200954.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "iscas" : 0,
+          "vara" : 0
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "itens" : {
+          "inventario" : {
+            "nomes" : "Pirulito"
+          }
+        },
+        "level" : 1,
+        "xp" : 0
+      },
+      "707700205927268365" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "716397013800976414" : {
+        "Casa" : 1,
+        "Fundo" : {
+          "bg" : "https://img.elo7.com.br/product/zoom/1A271B2/painel-ursinhos-carinhosos-frete-gratis-festa-de-crianca.jpg"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "xp" : 10
+      },
+      "724126994219925504" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : "esperandoData"
+        },
+        "xp" : 0
+      },
+      "725411728640311347" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/d2sZmwZ.jpg"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png",
+            "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png"
+          },
+          "iscas" : 11,
+          "vara" : 2
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 1,
+            "vara02" : 1,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, pedra, óculos quebrados, pedra, pão estranho, pedra, planta estragada, cenoura subterrânea, concha, vagem, pedra, concha, concha, planta estragada, argila, pedra, cenoura subterrânea, vagem, pão estranho, cenoura subterrânea, concha, planta estragada, argila, planta estragada, planta estragada, concha, planta estragada, pote de feijão, palha para mastigar, colher enferrujada, colher enferrujada, couve-flor, pudim de arroz"
+          }
+        },
+        "level" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627474389400
+        },
+        "vidente" : {
+          "analiseAmor" : "Pare de ver muitos defeitos nas pessoas. Muitos dos defeitos que você critica são apenas reflexos do que você é.",
+          "analiseEvitar" : "ficar muito tempo sem comer.",
+          "analiseFrase" : "mais exercicios físicos",
+          "dataVidente" : 1627474401458
+        },
+        "xp" : 1087
+      },
+      "725533063345471508" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "iscas" : 20,
+          "vara" : 0
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "inventario" : {
+            "nomes" : "Pirulito"
+          }
+        },
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1624242469692
+        },
+        "xp" : 11
+      },
+      "725575535052455959" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "757274908282716282" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627598782661
+        },
+        "xp" : 27
+      },
+      "767149419790991390" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1624401384816
+        },
+        "xp" : 52
+      },
+      "819633623006707772" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Fundo" : {
+          "bg" : "https://i.imgur.com/QAHlkn9.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627577230914
+        },
+        "vidente" : {
+          "analiseAmor" : "Pare de ver muitos defeitos nas pessoas. Muitos dos defeitos que você critica são apenas reflexos do que você é.",
+          "analiseEvitar" : "pensar muito nas coisas que aconteceram na última semana.",
+          "analiseFrase" : "coisas que tragam alegria",
+          "dataVidente" : 1625436167314
+        },
+        "xp" : 245
+      },
+      "839185808543842323" : {
+        "Casa" : 3,
+        "Emblemas" : {
+          "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+          "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+          "novato" : "https://i.imgur.com/IZ4zrel.png",
+          "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+        },
+        "Fundo" : {
+          "bg" : "https://img.wattpad.com/02f501054308c2667d858eb04c7566ebf9d60763/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f733446304561584c625a4c7076513d3d2d3235313939383435322e313434613938343064363034333737312e6a7067?s=fit&w=720&h=720"
+        },
+        "Morando" : "sozinho",
+        "Pescar" : {
+          "imagemVaras" : {
+            "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png"
+          },
+          "iscas" : 0,
+          "vara" : 2
+        },
+        "Prefeito" : "Não",
+        "Relacionamento" : "BiellWho",
+        "RelacionamentoID" : "642021565965402113",
+        "emblemaPrideVerifica" : "sim",
+        "itens" : {
+          "Pescaria" : {
+            "vara01" : 1,
+            "vara02" : 1,
+            "vara03" : 0
+          },
+          "inventario" : {
+            "nomes" : "Pirulito, pedra, pão estranho, concha, caldo pálido, cd quebrado, cenoura subterrânea, pedra, concha, pudim de arroz, palha para mastigar, pote de feijão, pote de feijão, pingente de sereia, pudim de arroz, pote de feijão, couve-flor, pote de feijão, batata, jojo-cola, pote de feijão, couve-flor, pote de feijão, palha para mastigar, colher enferrujada, colher enferrujada, batata, jojo-cola, pudim de arroz, jojo-cola, jojo-cola, pingente de sereia, colher enferrujada, jojo-cola, couve-flor, batata, pote de feijão"
+          }
+        },
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "recompensaDiaria" : {
+          "recompensaDiaria" : 1627500307705
+        },
+        "vidente" : {
+          "analiseAmor" : "Pare de ver muitos defeitos nas pessoas. Muitos dos defeitos que você critica são apenas reflexos do que você é.",
+          "analiseEvitar" : "ficar muito tempo sem comer.",
+          "analiseFrase" : "ser mais transparente sobre seus sentimentos. Ninguém é obrigado a adivinhar o que você tá sentido.",
+          "dataVidente" : 1627500317231
+        },
+        "xp" : 1539
+      },
+      "844581093125652490" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "850486329748881488" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "854903132412837888" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "856714993960222761" : {
+        "Casa" : 0,
+        "Emblemas" : {
+          "novato" : "https://i.imgur.com/IZ4zrel.png"
+        },
+        "Morando" : "sozinho",
+        "Prefeito" : "Não",
+        "Relacionamento" : "Nenhum.",
+        "RelacionamentoID" : 0,
+        "emblemaPrideVerifica" : "não",
+        "level" : 1,
+        "quantEmblemas" : 1,
+        "xp" : 0
+      },
+      "Emblemas" : {
+        "festajunina2020" : "https://i.imgur.com/XfwYgVt.png",
+        "halloween2020" : "https://i.imgur.com/yncvM7L.png",
+        "novato" : "https://i.imgur.com/IZ4zrel.png",
+        "pridedorme" : "https://i.imgur.com/gt4OVv2.png"
+      }
+    },
+    "itensPesca" : {
+      "guardaimgVaras" : {
+        "imagemvara01" : "https://stardewvalleywiki.com/mediawiki/images/0/00/Training_Rod.png",
+        "imagemvara02" : "https://stardewvalleywiki.com/mediawiki/images/d/da/Bamboo_Pole.png",
+        "imagemvara03" : "https://stardewvalleywiki.com/mediawiki/images/5/5e/Fiberglass_Rod.png"
+      },
+      "imgVara01" : {
+        "argila" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Clay.png",
+        "caldopalido" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Pale_Broth.png",
+        "cdquebrado" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Broken_CD.png",
+        "cenourasubterranea" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Cave_Carrot.png",
+        "concha" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Clam.png",
+        "oculosquebrados" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Broken_Glasses.png",
+        "paoestranho" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Strange_Bun.png",
+        "pedra" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Stone.png",
+        "plantaestragada" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Rotten_Plant.png",
+        "vagem" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Green_Bean.png"
+      },
+      "imgVara02" : {
+        "batata" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Potato.png",
+        "colherenferrujada" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Rusty_Spoon.png",
+        "couve-flor" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Cauliflower.png",
+        "jojo-cola" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Joja_Cola.png",
+        "palhaparamastigar" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Chewing_Stick.png",
+        "pingentedesereia" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Mermaids_Pendant.png",
+        "potedefeijao" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Bean_Hotpot.png",
+        "pudimdearroz" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Rice_Pudding.png"
+      },
+      "imgVara03" : {
+        "avelastorradas" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Roasted_Hazelnuts.png",
+        "estatuadegalinha" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Chicken_Statue.png",
+        "lanchinho" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Field_Snack.png",
+        "mudasdeuva" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Grape_Starter.png",
+        "panquecas" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Pancakes.png",
+        "saladadefrutas" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Fruit_Salad.png",
+        "sementesmistas" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Mixed_Seeds.png",
+        "tecido" : "https://eduanttunes.github.io/stardew_valley_ids/public/img/Cloth.png"
+      },
+      "vara01" : "pão estranho, argila, caldo pálido, concha, pedra, cenoura subterrânea, planta estragada, óculos quebrados, cd quebrado, vagem",
+      "vara02" : "colher enferrujada, palha para mastigar, couve-flor, batata, pingente de sereia, jojo-cola,pote de feijão, pudim de arroz",
+      "vara03" : "sementes mistas, avelãs torradas, tecido, mudas de uva, lanchinho, salada de frutas, estátua de galinha, panquecas"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+//CRIAR CONEXÃO NO BANCO DE DADOS:
+
+ let dbconecta = await database.ref(`ENDEREÇO DAS TABELAS QUE QUER ACESSAR`).once('value');
+
+ //voce pode usar o nome q quiser, nao precisa ser dbconecta
+
+//VERIFICAR SE A TABELA EXISTE:
+
+if (dbconecta.val() == null){ //se o valor q foi procurado no let dbconecta for indefinido você usa o .set para criar as tabelas
+
+    let dbverificaAlgo= await database.ref(`Servidores/Biblioteca/Marcador/zezinho5252`).set({
+                Nome: 'Nenhum nome definido.',
+                Autor: 'Sem autor definido.',
+                Sinopse: 'Sem sinopse.',
+                Bibliotecario: 'Não definido.'
+            })
+} //sempre NOME DO CAMPO: valor
+        
+//CRIAR NOVOS CAMPOS NO BANCO:
+
+let nome qualquer de variavel = await database.ref(`ENDEREÇO AQUI`).set({
+   
+})
+
+//ATUALIZAR UMA TABELA EXISTENTE
+
+let nome qualquer de variavel = await database.ref(`ENDEREÇO AQUI`).update({
+   //valores que vc quer atualizar aqui
+})
+
+//DELETAR TABELA
+
+let nome qualquer de variavel = await database.ref(`ENDEREÇO AQUI`).delete({
+    //valores que vc quer atualizar aqui
+ })
+

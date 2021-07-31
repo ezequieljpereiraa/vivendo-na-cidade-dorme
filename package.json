@@ -1,0 +1,27 @@
+{
+  "name": "vivendonacidadedorme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.0",
+    "canvas": "^2.7.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.3",
+    "discord.js-menu": "^2.3.1",
+    "firebase": "^8.3.1",
+    "firebase-admin": "^9.6.0",
+    "got": "^11.8.2",
+    "jimp": "^0.16.1",
+    "node-cron": "^3.0.0",
+    "normalize-url": "^6.1.0",
+    "object-to-array-convert": "^1.1.0",
+    "parse-ms": "^2.1.0"
+  }
+} 
