@@ -1,7 +1,5 @@
 # Vivendo na cidade Dorme
 
-<img src="exemplo-image.png" alt="exemplo imagem">
-
 > Esse é um bot estilo jogo criado para o servidor Cidade Dorme. Esse é um projeto amador que possui diversos erros, porque são os primeiros códigos que programei na vida.
 
 ## 💻 Pré-requisitos
