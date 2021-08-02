@@ -5,7 +5,6 @@ const firebase = require("firebase");
 const fs = require('fs');
 const cron = require('cron');
 
-
 // CONEXÃO COM O FIREBASE
 
 const configF = {
@@ -379,36 +378,46 @@ anoitecer.start()
 //PARA ESSE COMANDO FUNCIONAR.
 
 client.on('message', async message => {
-  if (message.channel.type == 'DM') return;
-  if (message.author.bot) return ;
+  if (message.author.bot) return;
+  if (message.channel.type === 'dm') return;
+  if (!message.content.startsWith(config.prefix)) return;
+  if (message.content.startsWith(`<@!${client.user.id}`) || message.content.startsWith(`<@${client.user.id}`)) return;
+  
+  const args = message.content.slice(config.prefix.length).trim().split(/ +/g);
+  const command = args.shift().toLowerCase();
 
-  database.ref(`Servidores/Perfil/${message.author.id}`)
-  .once('value').then(async function(db) {
-    if (db.val() == null) {
-      database.ref(`Servidores/Perfil/${message.author.id}`)
-      .set({
-        xp: 0, //Diamantes
-        level: 1, //Nunca usei. O level vem do bot mee6. Ignorar isso
-        Relacionamento: 'Nenhum.', // Nome da pessoa que está casada
-        RelacionamentoID: 0, //ID Da pessoa
-        Casa: 0, // Id da casa que a pessoa possui. Olhar o arquivo perfil.js para entender como funciona
-        Prefeito: 'Não',
-        quantEmblemas: 1 // Nunca usei
-      })
-
-      database.ref(`Servidores/Perfil/${message.author.id}/Emblemas`)
-      .set({
-        novato: 'https://i.imgur.com/IZ4zrel.png' // assim que entra no servidor já ganha o emblema de novato
-      })
-
-      database.ref(`Servidores/Perfil/${message.author.id}/`)
-      .update({
-        Morando: 'sozinho'
-      })
+  let cmd = client.comandos.get(command) || client.comandos.find((c) => c.alias.includes(command))
+  if(cmd){
+  return cmd.run(client, message, args, database)
     }
-  })
 
+    database.ref(`Servidores/Perfil/${message.author.id}`)
+    .once('value').then(async function(db) {
+      if (db.val() == null) {
+        database.ref(`Servidores/Perfil/${message.author.id}`)
+        .set({
+          xp: 0, //Diamantes
+          level: 1, //Nunca usei. O level vem do bot mee6. Ignorar isso
+          Relacionamento: 'Nenhum.', // Nome da pessoa que está casada
+          RelacionamentoID: 0, //ID Da pessoa
+          Casa: 0, // Id da casa que a pessoa possui. Olhar o arquivo perfil.js para entender como funciona
+          Prefeito: 'Não',
+          quantEmblemas: 1 // Nunca usei
+        })
+  
+        database.ref(`Servidores/Perfil/${message.author.id}/Emblemas`)
+        .set({
+          novato: 'https://i.imgur.com/IZ4zrel.png' // assim que entra no servidor já ganha o emblema de novato
+        })
+  
+        database.ref(`Servidores/Perfil/${message.author.id}/`)
+        .update({
+          Morando: 'sozinho'
+        })
+      }
+    })
+ 
 
- }); // fim do on
+});
  
 client.login(config.token);
